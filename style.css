@@ -26,6 +26,7 @@ h1,h2,h3,figure{
    
 
 div{
+    display: inline-block;
     background-color:rgba(9, 9, 14, 0.616) ;
     margin: 70px;
     
